@@ -1,6 +1,6 @@
 # Homework Assignments
 
-These are homework assignments for SPQR1337: Puppet Engineering, Spring 2024.
+These are homework assignments for [SPQR1337: Puppet Engineering](https://www.youtube.com/channel/UCg3t2I9DIsU1HxNOHoPcLlw), Spring 2024.
 
 ## Assignments
 
