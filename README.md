@@ -1,13 +1,13 @@
-# Candy ratings central
+# Homework Assignments
 
-This is a repository of every flavor of candy I've tried.
+These are homework assignments for SPQR1337: Puppet Engineering, Spring 2024.
 
-|flavor|rating|
-|---|---|
-|chocolate|A+|
-|strawberry|A+|
-|licorice|A+|
+## Assignments
 
-## Feedback
+* [Assignment 1](homework-01/scraper.py) - a Python scraper to download court cases
+* [Assignment 2](homework-02/) - simple analysis (includes several notebooks)
+* [Assignment 3](homework-03/horses.ipynb) - practice on Monte Carlo simulation
 
-Scream about how you disagree at [@dangerscarf](http://twitter.com/dangerscarf)
+## Contact
+
+Jonathan Soma, [js4571@example.com](mailto:js4571@example.com)
